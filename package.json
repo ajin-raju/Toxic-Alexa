@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TURBOHYPER/Toxic-Alexa.git"
+    "url": "git+https://github.com/ajin-raju/Toxic-Alexa.git"
   },
   "keywords": [
     "WhatsApp",
     "bgm",
     "Bot"
   ],
-  "author": "AsenaDev / Yusuf Usta",
+  "author": "AsenaDev /ajin-raju,
   "developer": "Ameer suhail / @phaticusthiccy",
   "license": "GPL-3.0-or-later",
   "bugs": {
